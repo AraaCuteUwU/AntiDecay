@@ -1,0 +1,4 @@
+#Leave it blank to all worlds
+worlds: []
+  # - world
+  # - lobby
